@@ -7,6 +7,14 @@ Kubernetes 애플리케이션 자동 확장 (Auto-Scaling) 및 고가용성 실�
 - 수동 스케일링부터 Horizontal Pod Autoscaler (HPA)를 이용한 자동 스케일링까지 구현하며, Metric Server 및 Pod의 Resource 정의의 중요성을 이해합니다.
 - 이를 통해 동적으로 변화하는 트래픽에 대응하는 탄력적인 서비스 운영 능력을 기릅니다.
 
+![스크린샷 2025-06-18 150222](https://github.com/user-attachments/assets/69ef9123-7177-4052-a972-dbce2cd359b8)
+![스크린샷 2025-06-18 150516](https://github.com/user-attachments/assets/2a8c1fa2-0b44-4161-8892-afd4be6db31a)
+![스크린샷 2025-06-18 151209](https://github.com/user-attachments/assets/c2ff87b3-679a-447d-b066-69fb06891e2d)
+![스크린샷 2025-06-18 151733](https://github.com/user-attachments/assets/2eb0bde1-d692-4de4-8365-7c4cf34e145b)
+![스크린샷 2025-06-18 153552](https://github.com/user-attachments/assets/8cb64259-933f-4d35-ae5f-f6d2fbf702a8)
+![스크린샷 2025-06-18 154744](https://github.com/user-attachments/assets/4efbfdba-5e24-48d4-bdc9-645c24a2a299)
+![스크린샷 2025-06-18 155027](https://github.com/user-attachments/assets/c7c45dd4-7289-44a4-b6a9-572f30aac05b)
+
 ## 실습 단계별 상세 설명
 
 0. 환경 초기화
